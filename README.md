@@ -1,5 +1,5 @@
 ### Hi there 👋
-Fullstack develop in progress... 💻⌚
+Fullstack developer in progress... 💻⌚
 I’m currently learning in CodeSpace academy.
 
 <!--
