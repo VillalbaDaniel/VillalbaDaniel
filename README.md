@@ -13,8 +13,8 @@
 <br/>
 <br/>
 
-Full stack developer Bootcamp student at CodeSpace Academy |Resilient, positive and optimistic | hard work | 
-passion for what you do | Deep Learning | Android Development | Java | Python | Competitive Programming
+Full stack developer Bootcamp student at CodeSpace Academy | Resilient, positive and optimistic | Hard work | 
+Passion for what you do | Animal lover | Team worker | friendly and approachable character | and maybe... a little geek 👽🤖
 
 ## About :sunglasses:
 Fullstack developer in progress... ⌚. Passionate about video games🎮 , movies 🎬, books 📚, sports 🥊🏋️‍♀️🏃‍♂️ and of course programming 💻. Right now I don't have much experience in the technological field, but I work hard every day to overcome challenges and learn everything I need to make this my livelihood and my near future.
