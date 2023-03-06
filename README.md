@@ -30,7 +30,6 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 - **Node.js**.
 - **Express**.
 - **Mongo DB**
-- 
 
 
 <a href="https://github.com/ashwanisng">
