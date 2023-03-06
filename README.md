@@ -20,7 +20,7 @@ Passion for what you do | Animal lover | Team worker | Friendly and approachable
 Fullstack developer in progress... ⌚. Passionate about video games 🎮, movies 🎬, books 📚, sports 🥊🏋️‍♀️🏃‍♂️ and of course programming 💻. Right now I don't have much experience in the technological field, but I work hard every day to overcome challenges and learn everything I need to make this my livelihood and my near future. Looking for my first job opportunity in this sector 🔍.
 
 ## Technologies that I am learning :fire:
-- **JavaScript**.
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>.
 - **HTML**.
 - **CSS**.
 - **SASS**.
