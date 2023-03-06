@@ -3,7 +3,7 @@
  <a href="https://twitter.com/JDani_Villalba">
   <img align="left" alt="Dani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/JDani_Villalba">
+<a href="[https://linkedin.com/in/Dani Villalba](https://www.linkedin.com/in/daniel-villalba-b3393325a/)">
   <img align="left" alt="Dani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/VillalbaDaniel">
