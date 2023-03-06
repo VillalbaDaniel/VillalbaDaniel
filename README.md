@@ -35,8 +35,8 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 <a href="https://github.com/ashwanisng">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VillalbaDaniel&theme=radical&hide=glsl,python" />
 </a>
-
 <img src="https://github-readme-stats.vercel.app/api?username=VillalbaDaniel&&show_icons=true&theme=radical&line_height=27&v=5" alt="VillalbaDaniel's GitHub Stats" />
+
 
 
 ##  Contact Me :speech_balloon:
