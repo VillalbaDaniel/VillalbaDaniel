@@ -4,7 +4,7 @@
 Full stack developer Bootcamp student at CodeSpace Academy | Resilient, positive and optimistic | Hard work | 
 Passion for what you do | Animal lover | Team worker | Friendly and approachable character | And maybe... a little geek 👽🤖
 
-## About :sunglasses:
+## About Me :sunglasses:
 Fullstack developer in progress... ⌚. Passionate about video games 🎮, movies 🎬, books 📚, sports 🥊🏋️‍♀️🏃‍♂️ and of course programming 💻. Right now I don't have much experience in the technological field, but I work hard every day to overcome challenges and learn everything I need to make this my livelihood and my near future. Looking for my first job opportunity in this sector 🔍.
 
 
@@ -41,6 +41,15 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
     height="70px" 
     style="margin: 10px"
     src="./assets/Node.js m.png"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/MongoDB.png"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/MYSQL.png"> &nbsp;    
+    
     
 
 
@@ -65,7 +74,7 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Make with ❤️ by VillalbaDaniel
 
 </div>
 
