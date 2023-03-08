@@ -78,7 +78,7 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 
 </div>
 
-⭐️ From [VillalbaDaniel](https://github.com/VillalbaDaniel)
+
 
 
 
