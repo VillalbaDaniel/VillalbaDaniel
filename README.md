@@ -2,7 +2,7 @@
  
  
 
-Full stack developer Bootcamp student at CodeSpace Academy | Resilient, positive and optimistic | Hard work | 
+Full stack developer | Resilient, positive and optimistic | Hard work | 
 Passion for what you do | Animal lover | Team worker | Friendly and approachable character | And maybe... a little geek 👽🤖
 
 ## About Me :sunglasses:
