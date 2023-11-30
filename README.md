@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/VillalbaDaniel/">Hi 🙌, I´m José Daniel Villalba del Amo</a> :smiley:
+ # <a href="[https://www.linkedin.com/in/VillalbaDaniel/](https://www.linkedin.com/in/jose-daniel-villalba-del-amo-b3393325a/)">Hi 🙌, I´m José Daniel Villalba del Amo</a> :smiley:
  
 
 Full stack developer Bootcamp student at CodeSpace Academy | Resilient, positive and optimistic | Hard work | 
