@@ -63,7 +63,7 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@JDani_Villalba-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JDani_Villalba)](https://twitter.com/JDani_Villalba) [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Villalba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-villalba-b3393325a/)](https://www.linkedin.com/in/daniel-villalba-b3393325a/) [![Gmail Badge](https://img.shields.io/badge/-jdvillalba2@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdvillalba2@hotmail.com)](mailto:jdvillalba2@hotmail.com) 
+[Linkedin Badge](https://img.shields.io/badge/-Daniel_Villalba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-daniel-villalba-del-amo-b3393325a/)](https://www.linkedin.com/in/jose-daniel-villalba-del-amo-b3393325a/) [![Gmail Badge](https://img.shields.io/badge/-jdvillalba2@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jdvillalba2@hotmail.com)](mailto:jdvillalba2@hotmail.com) 
 
 <p align="center"> 
   Visitor count<br>
