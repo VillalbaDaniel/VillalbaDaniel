@@ -1,5 +1,5 @@
  # <a href="https://www.linkedin.com/in/jose-daniel-villalba-del-amo-b3393325a/">Hi 🙌, I´m José Daniel Villalba del Amo</a> :smiley:
- https://www.linkedin.com/in/jose-daniel-villalba-del-amo-b3393325a/
+ 
  
 
 Full stack developer Bootcamp student at CodeSpace Academy | Resilient, positive and optimistic | Hard work | 
@@ -35,9 +35,7 @@ Fullstack developer in progress... ⌚. Passionate about video games 🎮, movie
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/Bootstrap.png">
-    
-    
+    src="./assets/Bootstrap.png">   
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
